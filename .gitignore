@@ -1,0 +1,3 @@
+# Intermediate build artifacts — regenerate with: node fetch_source.js && node build.js
+raw_page.html
+asset_map.json

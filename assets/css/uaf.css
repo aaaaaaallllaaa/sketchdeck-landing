@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'open-sans-light';
+					src: url('../images/3200Open-Sans-Light.woff2') format('woff2'),
+						url('../images/3200Open-Sans-Light.woff') format('woff');
+					   font-display: auto;
+				}
+
+				.open-sans-light{font-family: 'open-sans-light' !important;}
+
+		
